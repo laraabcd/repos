@@ -1,5 +1,5 @@
 here are my llvm prs from the year 2024.
-I added about 40 floating point math functions. And `fmul: double x double -> float` with some guidance. and coauthored the dekker double-double implementation for `fmul` for the fma usecase. And some (mpfr) tests and entrypoints.
+I added about 40 floating point math functions. And `fmul: double x double -> float` with some guidance. and coauthored the dekker double-double implementation of `fmul` for the fma use case. And some (mpfr) tests and entrypoints.
 
 https://github.com/llvm/llvm-project/commit/a205a854e06d36c1d0def3e3bc3743defdb6abc1
 
