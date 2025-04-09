@@ -1,0 +1,2 @@
+* todo
+- i think ill write this in coq instead since the documentation is better and i can learn from two good books

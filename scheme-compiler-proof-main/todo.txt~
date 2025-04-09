@@ -1,0 +1,10 @@
+* todo
+- i think ill write this in coq since the documentation is better and i can learn from two good books
+- this is actually not that easy. i need to learn coq well like any other language and understand the ideas.
+- patiently go over software foundations and do exercises
+- need to focus on this soley
+- first finish your diff geometry library
+- second finish your c++ compiler, use visitor pattern and dags and all for only the core of scheme
+- finish your scheme compiler; compile every expression from r7rs doc
+-- also use dags and blocks and all. do it correctly
+-- and once these are done start working on formal methods
