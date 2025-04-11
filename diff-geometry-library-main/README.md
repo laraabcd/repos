@@ -21,7 +21,7 @@ https://nbviewer.org/github/sagemanifolds/SageManifolds/blob/master/Notebooks/SM
 
 And 
 
-psuedo riemann manifolds on schwarzchild metric
+psuedo riemann manifolds on the schwarzchild metric
 
 (except for the geodesics)
 
@@ -37,6 +37,7 @@ f: B^n -> R
 
 f(u) = sqrt (1 - (abs u))^2
 
+and 
 maps that determine the graph coordinates of the n-sphere
 
 p^+-: intersection U^+- S^n -> B^n
