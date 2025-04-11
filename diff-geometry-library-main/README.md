@@ -9,7 +9,7 @@ Assuming everything is correct, this library is powerful enough to say something
 
 Still need to simplify stuff and make it easier to use.
 
-This library can, with some limitations, carry out most of the sage manifolds tutorial here
+This library can, with some limitations, carry out most of the sage manifolds tutorial here.
 
 https://nbviewer.org/github/sagemanifolds/SageManifolds/blob/master/Notebooks/SM_tutorial.ipynb
 
@@ -27,16 +27,17 @@ psuedo riemann manifolds on schwarzchild metric
 
 https://nbviewer.org/github/egourgoulhon/SageMathTour/blob/master/Notebooks/demo_pseudo_Riemannian_Schwarzschild.ipynb
 
-And i can it seems like define n dimensional spheres since thats just
+And i can, it seems like, define n dimensional spheres since thats just
 
-two charts defined on positive and negative numbers. 
+two charts defined on positive and negative numbers. and 
+
 a function:
 
 f: B^n -> R
 
 f(u) = sqrt (1 - (abs u))^2
 
-maps that determine the graph coordinate of the n-sphere
+maps that determine the graph coordinates of the n-sphere
 
 p^+-: intersection U^+- S^n -> B^n
 
