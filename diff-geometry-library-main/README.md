@@ -23,7 +23,7 @@ And
 
 psuedo riemann manifolds on schwarzchild metric
 
-(except of the geodesics)
+(except for the geodesics)
 
 https://nbviewer.org/github/egourgoulhon/SageMathTour/blob/master/Notebooks/demo_pseudo_Riemannian_Schwarzschild.ipynb
 
