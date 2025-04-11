@@ -21,7 +21,7 @@ https://nbviewer.org/github/sagemanifolds/SageManifolds/blob/master/Notebooks/SM
 
 And 
 
-psuedo riemann manifolds on the schwarzchild metric
+pseudo riemann manifolds on the schwarzchild metric
 
 (except for the geodesics)
 
